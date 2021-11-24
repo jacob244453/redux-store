@@ -10,13 +10,13 @@
   This application is built using Node.js, GraphQL, Apollo Server, MongoDB and it is using React for the front end and Redux for global state management.
   
   ## Table of Contents
-  * [Example](#Example)
+  * [Screenshot](#Screenshot)
   * [Link](#Link)
   * [Contribute](#Contribute)
   * [Questions](#Questions)
   
   ## Screenshot
-  
+  ![shop](https://user-images.githubusercontent.com/85600569/143313147-20d0fe70-e876-49a9-8541-db82ef82bb21.png)
   ## Link
   https://jacob244453.github.io/redux-store/
     
